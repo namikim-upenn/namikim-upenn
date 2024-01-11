@@ -27,7 +27,7 @@ I started out as a CPA and became a data scientist. Now I look forward to delvin
 * ✉️  You can contact me at [namixkim@gmail.com](mailto:namixkim@gmail.com)
 * 🚀  I'm currently working on [To be updated](http://To be updated)
 * 🧠  I'm learning PyTorch, TensorFlow
-* 🤝  I'm open to collaborating on Recommendation Algorithm, Human-Computer Interaction
+* 🤝  I'm open to collaborating on Recommendation Systems, Human-Computer Interaction
 * ⚡  Nice to meet you!
 
 ### Skills
